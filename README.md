@@ -3,5 +3,5 @@
 
 ```bash
 // 编译的bash命令:
-//  g++ -std=c++11 main.cpp SpriteStone.cpp Monster.cpp Immortal.cpp
+// g++ -std=c++11 main.cpp SpriteStone.cpp Monster.cpp Immortal.cpp
 ```
